@@ -35,7 +35,7 @@ REQUIRED SECTIONS:
 # Project name
 Hello microverse
 
-> this project was intended to build mobile portfolio
+> this project was intended to install linters
 
 ## 🛠 Built With 
 HTML
