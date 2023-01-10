@@ -80,7 +80,7 @@ git@github.com:Hazard10-eng/Portfolio.git
 
 ### Install
 
-Install this project with:
+### Install this project with:
 > vs code
 > git bash
 
