@@ -35,35 +35,30 @@ REQUIRED SECTIONS:
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-###PROJECT NAME
-.HELLO MICROVERSE
+### PROJECT NAME
+>HELLO MICROVERSE
 
 > Hello microverse was intended to set up linters
 
 
-###It is built by 
-html
-css
+### It is built by 
+>html
+>css
 
  ###Tech Stack
- html
- css
+ >html
+ >css
 
-###This project is built with 
+### This project is built with 
 the help of html and css
 Also with adding .gitgnore file
 Again with adding stylelintrc.json and .hintrc
 finally we  got to add linters file so that they can be installed
 
->
-
-
-
 ### FEATURES
 
 - This project was built by html and css
 - After we add linters file to help correct style
-
 
  LIVE DEMO
 
