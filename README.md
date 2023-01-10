@@ -64,8 +64,6 @@ finally we  got to add linters file so that they can be installed
 
 Coming soon
 
-To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 
 In order to run this project you need:
