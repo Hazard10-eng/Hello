@@ -35,13 +35,13 @@ REQUIRED SECTIONS:
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-PROJECT NAME
+#PROJECT NAME
 .HELLO MICROVERSE
 
 > Hello microverse was intended to set up linters
 
 
-It is built by 
+#It is built by 
 html
 css
 
@@ -49,18 +49,17 @@ css
  html
  css
 
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-this project with the help of html and css
+#This project is built with 
+the help of html and css
 Also with adding .gitgnore file
 Again with adding stylelintrc.json and .hintrc
 finally we  got to add linters file so that they can be installed
 
 >
 
-### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+
+### FEATURES
 
 - This project was built by html and css
 - After we add linters file to help correct style
@@ -69,8 +68,6 @@ finally we  got to add linters file so that they can be installed
  LIVE DEMO
 
 Coming soon
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -97,8 +94,7 @@ Install this project with:
 To run tests, run the following command:
 npx stylelint styles.css for linters check and correction
 
-
-<!-- AUTHORS -->
+ AUTHORS 
 
 - GitHub:[(https://github.com/Hazard10-eng)]
 - Twitter: [https://twitter.com/AimeSebagabo]
