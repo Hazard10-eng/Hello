@@ -1,5 +1,7 @@
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-
+Modify this file to match your project and remove sections that don't apply.
 
 REQUIRED SECTIONS:
 - Table of Contents
@@ -8,6 +10,7 @@ REQUIRED SECTIONS:
   - Live Demo
 - Getting Started
 - Authors
+- Future Features
 - Contributing
 - Show your support
 - Acknowledgements
@@ -23,45 +26,57 @@ REQUIRED SECTIONS:
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
+PROJECT NAME
+.HELLO MICROVERSE
 
-# Project name
-Hello microverse
+> Hello microverse was intended to set up linters
 
-> this project was intended to install linters
 
-## 🛠 Built With 
-HTML
-CSS
+It is built by 
+html
+css
 
-### Tech Stack 
--HTML
--CSS
+ #Tech Stack
+ html
+ css
 
-### Key Features 
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+this project with the help of html and css
+Also with adding .gitgnore file
+Again with adding stylelintrc.json and .hintrc
+finally we  got to add linters file so that they can be installed
+
+>
+
+### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- This project was about bulding mobile portfolio 
-- This project was designed to use html and css
-- This porject have to be built solo
+- This project was built by html and css
+- After we add linters file to help correct style
 
-## 🚀 Live Demo 
 
-- [Live Demo Link](http://127.0.0.1:5501/index.html)
+ LIVE DEMO
 
-## 💻 Getting Started 
+Coming soon
+
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
-if you find my project helpful to you and you need to use you might follow the link of
-my github: https://github.com/Hazard10-eng,  and copy the repo to your own
 
 ### Prerequisites
 
@@ -72,22 +87,26 @@ In order to run this project you need:
 -install vs code 
 
 ### Setup
-
 Clone this repository to your desired folder:
 git@github.com:Hazard10-eng/Portfolio.git
+
+### Install
+
+Install this project with:
+> vs code
+> git bash
+
 ### Run tests
 
 To run tests, run the following command:
-
 npx stylelint styles.css for linters check and correction
 
 
-👤 **Author
+<!-- AUTHORS -->
 
 - GitHub:[(https://github.com/Hazard10-eng)]
 - Twitter: [https://twitter.com/AimeSebagabo]
 - LinkedIn: [(https://www.linkedin.com/in/jean-aime-sebagabo-279aa2207/)]
-
 
 ## ⭐️ Show your support
 
@@ -102,3 +121,5 @@ I would like to thank God to help me finish this project
 This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+
