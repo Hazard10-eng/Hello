@@ -35,21 +35,21 @@ REQUIRED SECTIONS:
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-#PROJECT NAME
+###PROJECT NAME
 .HELLO MICROVERSE
 
 > Hello microverse was intended to set up linters
 
 
-#It is built by 
+###It is built by 
 html
 css
 
- #Tech Stack
+ ###Tech Stack
  html
  css
 
-#This project is built with 
+###This project is built with 
 the help of html and css
 Also with adding .gitgnore file
 Again with adding stylelintrc.json and .hintrc
