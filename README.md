@@ -45,7 +45,7 @@ REQUIRED SECTIONS:
 >html
 >css
 
- ###Tech Stack
+ ### Tech Stack
  >html
  >css
 
