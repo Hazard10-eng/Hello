@@ -78,11 +78,9 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 git@github.com:Hazard10-eng/Portfolio.git
 
-### Install
-
 ### Install this project with:
-> vs code
-> git bash
+ -vs code
+ -git bash
 
 ### Run tests
 
